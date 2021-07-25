@@ -9,7 +9,7 @@ Usage:
   phoneinfoga [command]
 
 Examples:
-phoneinfoga scan -n <number>
+phoneinfoga scan -n <numbe+97157817598r>
 
 Available Commands:
   help        Help about any command
